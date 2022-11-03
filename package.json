@@ -1,0 +1,27 @@
+{
+  "name": "posenet",
+  "version": "1.0.0",
+  "description": "posenetVideo",
+  "main": "index.js",
+  "scripts": {
+    "version": "webpack -v",
+    "build": "webpack --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^2.2.2",
+    "@tensorflow/tfjs-backend-webgl": "^3.6.0",
+    "@tensorflow/tfjs-converter": "^3.6.0",
+    "@tensorflow/tfjs-core": "^3.6.0",
+    "skyway-js": "^4.4.1",
+    "util.js": "0.0.0",
+    "webpack": "^5.74.0"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ],
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}

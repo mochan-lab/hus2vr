@@ -17,7 +17,12 @@ Webブラウザ上で利用できる深層学習である[TensorFlow.js](https:/
 ## 骨格の推定
 Webカメラで取得した映像に対して、[PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)によって映っている人間の骨格を推定する。
 UnityではIKを用いてアバターに反映している。
+
+https://user-images.githubusercontent.com/92072920/199671953-ca81b0f4-1c02-433a-a46a-cb2a8b452953.mp4
+
+
 [姿勢反映の例](./mov1.mp4)
+
 
 ## システムフロー
 ![システム全体のフロー](./fig1.jpg)  

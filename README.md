@@ -17,7 +17,7 @@ Webブラウザ上で利用できる深層学習である[TensorFlow.js](https:/
 ## 骨格の推定
 Webカメラで取得した映像に対して、[PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)によって映っている人間の骨格を推定する。
 UnityではIKを用いてアバターに反映している。
-![姿勢反映の例](./fig2.png)
+[姿勢反映の例](./mov1.mp4)
 
 ## システムフロー
 ![システム全体のフロー](./fig1.jpg)  
@@ -26,7 +26,7 @@ hus2vr run with Webブラウザ ->（WebRTC Datachannel）-> [Skyway Gateway](ht
 
 ## 実行デモ
 3ds MaxのPopulateによって横断歩道を歩く人たちのアニメーションを作成。この映像を元に歩行者の位置や姿勢をUnity上に反映した。
-[デモ映像](./mov1.mp4)
-右上：元動画  
+[デモ映像](./mov2.mp4)
+上：元動画  
 右下：VR空間を元画像と同じ視点から  
 左下：VR空間を俯瞰で

@@ -31,7 +31,12 @@ hus2vr run with Webブラウザ ->（WebRTC Datachannel）-> [Skyway Gateway](ht
 
 ## 実行デモ
 3ds MaxのPopulateによって横断歩道を歩く人たちのアニメーションを作成。この映像を元に歩行者の位置や姿勢をUnity上に反映した。
-[デモ映像](./mov2.mp4)
+
+
+https://user-images.githubusercontent.com/92072920/199672112-208d553d-772e-4be3-a4da-d1a7eb6030ca.mp4
+
+
+[デモ映像](./mov2.mp4)  
 上：元動画  
 右下：VR空間を元画像と同じ視点から  
 左下：VR空間を俯瞰で
